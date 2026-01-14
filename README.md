@@ -1,4 +1,4 @@
-# Data Availability for  
+# Data Availability for KG Paper
 
 A Multimodal Large Language Model and Knowledge Graph–Driven Approach for Intelligent Product Service
 
